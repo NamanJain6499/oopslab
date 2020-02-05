@@ -1,0 +1,9 @@
+class player
+{
+	private int l=2;
+	private int b=3;
+}
+class exp2 extends player
+{
+	System.out.println("area is:"+l*b);
+}
